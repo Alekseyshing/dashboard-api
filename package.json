@@ -1,0 +1,12 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "API для проекта по курсам",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Shingarev",
+  "license": "ISC"
+}
